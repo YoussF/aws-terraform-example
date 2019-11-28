@@ -1,0 +1,5 @@
+*/.terraform
+*/terraform.tfstate
+*/terraform.tfstate.backup
+*/ssh-keys/id_rsa_aws
+*/ssh-keys/id_rsa_aws.pub
